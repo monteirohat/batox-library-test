@@ -1,0 +1,299 @@
+{
+  "schema": 1,
+  "name": "BatoX test library",
+  "games": [
+    {
+      "system": "atari2600",
+      "name": "BatoX Test Game 1 (atari2600)",
+      "file": "atari2600/BatoX Test Game 1 (atari2600).a26",
+      "size": 4096,
+      "sha256": "0381eb8ac2f01611e1a45450d462fa9d3254141ce80fa30cd18cfee74a46de93",
+      "image": "atari2600/images/BatoX Test Game 1 (atari2600)-image.png"
+    },
+    {
+      "system": "atari2600",
+      "name": "BatoX Test Game 2 (atari2600)",
+      "file": "atari2600/BatoX Test Game 2 (atari2600).a26",
+      "size": 8192,
+      "sha256": "4bb2d6255dfc354ebddbb115663b16468609fe9de5c4c4967be75f2d8d55c776",
+      "image": "atari2600/images/BatoX Test Game 2 (atari2600)-image.png"
+    },
+    {
+      "system": "atari2600",
+      "name": "BatoX Test Game 3 (atari2600)",
+      "file": "atari2600/BatoX Test Game 3 (atari2600).a26",
+      "size": 12288,
+      "sha256": "1be69ec5bf3738cead20adf53d665853a133eff1e8ac6a03da7afee32d2409af",
+      "image": "atari2600/images/BatoX Test Game 3 (atari2600)-image.png"
+    },
+    {
+      "system": "gamegear",
+      "name": "BatoX Test Game 1 (gamegear)",
+      "file": "gamegear/BatoX Test Game 1 (gamegear).gg",
+      "size": 4096,
+      "sha256": "107545c1d58e8888f98e044faa474c65ac1e8907413a3e4da9b16199fabcd9e3",
+      "image": "gamegear/images/BatoX Test Game 1 (gamegear)-image.png"
+    },
+    {
+      "system": "gamegear",
+      "name": "BatoX Test Game 2 (gamegear)",
+      "file": "gamegear/BatoX Test Game 2 (gamegear).gg",
+      "size": 8192,
+      "sha256": "742c9d09e1b904e89d5ef5895237ebce2d3a84e765e2739f4c7ee090235f1252",
+      "image": "gamegear/images/BatoX Test Game 2 (gamegear)-image.png"
+    },
+    {
+      "system": "gamegear",
+      "name": "BatoX Test Game 3 (gamegear)",
+      "file": "gamegear/BatoX Test Game 3 (gamegear).gg",
+      "size": 12288,
+      "sha256": "8b339352814204aff03c796690c27e7948df7659eccf5b80eb68a20bcbbd6170",
+      "image": "gamegear/images/BatoX Test Game 3 (gamegear)-image.png"
+    },
+    {
+      "system": "gb",
+      "name": "BatoX Test Game 1 (gb)",
+      "file": "gb/BatoX Test Game 1 (gb).gb",
+      "size": 4096,
+      "sha256": "dd291299147f54082a5a9c8973c29be0df7a83aff29094a2759e62e065a3b311",
+      "image": "gb/images/BatoX Test Game 1 (gb)-image.png"
+    },
+    {
+      "system": "gb",
+      "name": "BatoX Test Game 2 (gb)",
+      "file": "gb/BatoX Test Game 2 (gb).gb",
+      "size": 8192,
+      "sha256": "57e370370ce8b395a080676ad2268ef4a2de87b4f7304f5c77f0cb35afc5ae10",
+      "image": "gb/images/BatoX Test Game 2 (gb)-thumb.jpg"
+    },
+    {
+      "system": "gb",
+      "name": "BatoX Test Game 3 (gb)",
+      "file": "gb/BatoX Test Game 3 (gb).gb",
+      "size": 12288,
+      "sha256": "1b60061640fcebb878766a22302af464ee0e3dc75221d3de0cb12f50de9a00b3",
+      "image": "gb/images/BatoX Test Game 3 (gb)-image.png"
+    },
+    {
+      "system": "gba",
+      "name": "Test Adventure 1",
+      "file": "gba/BatoX Test Game 1 (gba).gba",
+      "size": 4096,
+      "sha256": "f99f16eb5a97778d9d1a813845cf5e0466be66fb268c0eaeea785115d3259591",
+      "image": "gba/images/BatoX Test Game 1 (gba)-image.png",
+      "description": "A fake gba game to test BatoX's Library screen.",
+      "developer": "BatoX",
+      "genre": "Platform",
+      "players": "1-2",
+      "year": "1991"
+    },
+    {
+      "system": "gba",
+      "name": "Test Adventure 2",
+      "file": "gba/BatoX Test Game 2 (gba).gba",
+      "size": 8192,
+      "sha256": "7459caef1fe91003ae34e664a28fe598313734e135e8c349794d535d81abd657",
+      "image": "gba/images/BatoX Test Game 2 (gba)-image.png",
+      "description": "A fake gba game to test BatoX's Library screen.",
+      "developer": "BatoX",
+      "genre": "Puzzle",
+      "players": "1-2",
+      "year": "1992"
+    },
+    {
+      "system": "gba",
+      "name": "Test Adventure 3",
+      "file": "gba/BatoX Test Game 3 (gba).gba",
+      "size": 12288,
+      "sha256": "04ff742b04e23d6aaf188d8a39cf9eb5fc28a29eb959e3c315222cf625f516bd",
+      "image": "gba/images/BatoX Test Game 3 (gba)-image.png",
+      "description": "A fake gba game to test BatoX's Library screen.",
+      "developer": "BatoX",
+      "genre": "Racing",
+      "players": "1-2",
+      "year": "1993"
+    },
+    {
+      "system": "gbc",
+      "name": "BatoX Test Game 1 (gbc)",
+      "file": "gbc/BatoX Test Game 1 (gbc).gbc",
+      "size": 4096,
+      "sha256": "7673e9b58bebbfe9757dd86b8fc1efea7d6feab0be0dc9d6efe80ae5b7a2449e",
+      "image": "gbc/images/BatoX Test Game 1 (gbc)-image.png"
+    },
+    {
+      "system": "gbc",
+      "name": "BatoX Test Game 2 (gbc)",
+      "file": "gbc/BatoX Test Game 2 (gbc).gbc",
+      "size": 8192,
+      "sha256": "b43f647f4e196e4ef7beb391810c0d7434da58e71b36d063507bda702cfe06d3",
+      "image": "gbc/images/BatoX Test Game 2 (gbc)-image.png"
+    },
+    {
+      "system": "gbc",
+      "name": "BatoX Test Game 3 (gbc)",
+      "file": "gbc/BatoX Test Game 3 (gbc).gbc",
+      "size": 12288,
+      "sha256": "0d8417070d9e523e987ade58992f8220434ee634c27b2e752b86459ee39b951a",
+      "image": "gbc/images/BatoX Test Game 3 (gbc)-image.png"
+    },
+    {
+      "system": "mastersystem",
+      "name": "BatoX Test Game 1 (mastersystem)",
+      "file": "mastersystem/BatoX Test Game 1 (mastersystem).sms",
+      "size": 4096,
+      "sha256": "a5142e1eb6b1538245ae99b97921ab8690c3cf8df266030703f4dd614601c012",
+      "image": "mastersystem/images/BatoX Test Game 1 (mastersystem)-image.png"
+    },
+    {
+      "system": "mastersystem",
+      "name": "BatoX Test Game 2 (mastersystem)",
+      "file": "mastersystem/BatoX Test Game 2 (mastersystem).sms",
+      "size": 8192,
+      "sha256": "b2e5612a8a58f5b54d7ff191ed166411be4e3d1be689af19be9948385ee9f4ff",
+      "image": "mastersystem/images/BatoX Test Game 2 (mastersystem)-image.png"
+    },
+    {
+      "system": "mastersystem",
+      "name": "BatoX Test Game 3 (mastersystem)",
+      "file": "mastersystem/BatoX Test Game 3 (mastersystem).sms",
+      "size": 12288,
+      "sha256": "aa7e2b845479705e43d57f99a813b1c47feb56d809266d2aa037d468a9983633",
+      "image": "mastersystem/images/BatoX Test Game 3 (mastersystem)-image.png"
+    },
+    {
+      "system": "megadrive",
+      "name": "BatoX Test Game 1 (megadrive)",
+      "file": "megadrive/BatoX Test Game 1 (megadrive).md",
+      "size": 4096,
+      "sha256": "59bc54ef9f0751348a023075b40e707284c3f5271b2e11bac3e5842fb8fb110c",
+      "image": "megadrive/images/BatoX Test Game 1 (megadrive)-image.png"
+    },
+    {
+      "system": "megadrive",
+      "name": "BatoX Test Game 2 (megadrive)",
+      "file": "megadrive/BatoX Test Game 2 (megadrive).md",
+      "size": 8192,
+      "sha256": "4540b2f476e925bbfb20ad646fff9b64823cf59ca3a031581a2b8faedcef11ad",
+      "image": "megadrive/images/BatoX Test Game 2 (megadrive)-image.png"
+    },
+    {
+      "system": "megadrive",
+      "name": "BatoX Test Game 3 (megadrive)",
+      "file": "megadrive/BatoX Test Game 3 (megadrive).md",
+      "size": 12288,
+      "sha256": "1c82efca18a75831ab1a791512f4c9eeb93c81ec44d2fc841f2bbc74b3bdf8ff",
+      "image": "megadrive/images/BatoX Test Game 3 (megadrive)-image.png"
+    },
+    {
+      "system": "n64",
+      "name": "BatoX Test Game 1 (n64)",
+      "file": "n64/BatoX Test Game 1 (n64).z64",
+      "size": 4096,
+      "sha256": "c78b25067ad0ba11af251b9080823adde2bc0afedd100e5250b523d3d5398d00",
+      "image": "n64/images/BatoX Test Game 1 (n64)-image.png"
+    },
+    {
+      "system": "n64",
+      "name": "BatoX Test Game 2 (n64)",
+      "file": "n64/BatoX Test Game 2 (n64).z64",
+      "size": 8192,
+      "sha256": "ff915536c7c5e3b416b4b48857bc6b04c333739fb503e8fb39d193278fce4aed",
+      "image": "n64/images/BatoX Test Game 2 (n64)-image.png"
+    },
+    {
+      "system": "n64",
+      "name": "BatoX Test Game 3 (n64)",
+      "file": "n64/BatoX Test Game 3 (n64).z64",
+      "size": 12288,
+      "sha256": "875def3e34a9878edb7960c5c8ce096ca0fde5a0abd6aad9cecbf0608952e8cb",
+      "image": "n64/images/BatoX Test Game 3 (n64)-image.png"
+    },
+    {
+      "system": "nes",
+      "name": "BatoX Test Game 1 (nes)",
+      "file": "nes/BatoX Test Game 1 (nes).nes",
+      "size": 4096,
+      "sha256": "f0541b18e456758c62e4493aa85175165ab02185261456f3c1c07d6aac6d39ba",
+      "image": "nes/images/BatoX Test Game 1 (nes)-image.png"
+    },
+    {
+      "system": "nes",
+      "name": "BatoX Test Game 2 (nes)",
+      "file": "nes/BatoX Test Game 2 (nes).nes",
+      "size": 8192,
+      "sha256": "1ac7c95f366306b24b87772e57bdb0301acc03cf3ef95f1487e210ba6c371ffc",
+      "image": "nes/images/BatoX Test Game 2 (nes)-image.png"
+    },
+    {
+      "system": "nes",
+      "name": "BatoX Test Game 3 (nes)",
+      "file": "nes/BatoX Test Game 3 (nes).nes",
+      "size": 12288,
+      "sha256": "68d5a9deb5f78535a98d551940b18bcfd6297948f18b6f1eba76bffcad7f16b6"
+    },
+    {
+      "system": "pcengine",
+      "name": "BatoX Test Game 1 (pcengine)",
+      "file": "pcengine/BatoX Test Game 1 (pcengine).pce",
+      "size": 4096,
+      "sha256": "22b7aa582e1103713ae8b8cfcc663642ab21a01464ad4e3cd54f1d8d7117d43f",
+      "image": "pcengine/images/BatoX Test Game 1 (pcengine)-image.png"
+    },
+    {
+      "system": "pcengine",
+      "name": "BatoX Test Game 2 (pcengine)",
+      "file": "pcengine/BatoX Test Game 2 (pcengine).pce",
+      "size": 8192,
+      "sha256": "7b34ad41709a2d26f095b0bfe259b20426f5244f663d8f5d6d4f96b2811b052c",
+      "image": "pcengine/images/BatoX Test Game 2 (pcengine)-image.png"
+    },
+    {
+      "system": "pcengine",
+      "name": "BatoX Test Game 3 (pcengine)",
+      "file": "pcengine/BatoX Test Game 3 (pcengine).pce",
+      "size": 12288,
+      "sha256": "d2ab3195da5ffcad27835b508486d5b64ccb5a834c54276112ed77a4c430ff63",
+      "image": "pcengine/images/BatoX Test Game 3 (pcengine)-image.png"
+    },
+    {
+      "system": "snes",
+      "name": "Test Adventure 1",
+      "file": "snes/BatoX Test Game 1 (snes).sfc",
+      "size": 4096,
+      "sha256": "ea19b9a785ae1fca7072f13b08476d98095453708d91e59307dfeb08173eb50e",
+      "image": "snes/images/BatoX Test Game 1 (snes)-image.png",
+      "description": "A fake snes game to test BatoX's Library screen.",
+      "developer": "BatoX",
+      "genre": "Platform",
+      "players": "1-2",
+      "year": "1991"
+    },
+    {
+      "system": "snes",
+      "name": "Test Adventure 2",
+      "file": "snes/BatoX Test Game 2 (snes).sfc",
+      "size": 8192,
+      "sha256": "2ddb2c6b6d589450c673c0eba63a350ca1a0913e2b1c24a364235ca2f7357868",
+      "image": "snes/images/BatoX Test Game 2 (snes)-image.png",
+      "description": "A fake snes game to test BatoX's Library screen.",
+      "developer": "BatoX",
+      "genre": "Puzzle",
+      "players": "1-2",
+      "year": "1992"
+    },
+    {
+      "system": "snes",
+      "name": "Test Adventure 3",
+      "file": "snes/BatoX Test Game 3 (snes).sfc",
+      "size": 12288,
+      "sha256": "95f32d78ed85a962815c39fbcc1b5de4f7fb3311ebd0c2ceab90ca45fcf07247",
+      "image": "snes/images/BatoX Test Game 3 (snes)-image.png",
+      "description": "A fake snes game to test BatoX's Library screen.",
+      "developer": "BatoX",
+      "genre": "Racing",
+      "players": "1-2",
+      "year": "1993"
+    }
+  ]
+}

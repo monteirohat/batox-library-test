@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./BatoX Test Game 1 (gba).gba</path>
+		<name>Test Adventure 1</name>
+		<desc>A fake gba game to test BatoX's Library screen.</desc>
+		<developer>BatoX</developer>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<releasedate>19910101T000000</releasedate>
+	</game>
+	<game>
+		<path>./BatoX Test Game 2 (gba).gba</path>
+		<name>Test Adventure 2</name>
+		<desc>A fake gba game to test BatoX's Library screen.</desc>
+		<developer>BatoX</developer>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<releasedate>19920101T000000</releasedate>
+	</game>
+	<game>
+		<path>./BatoX Test Game 3 (gba).gba</path>
+		<name>Test Adventure 3</name>
+		<desc>A fake gba game to test BatoX's Library screen.</desc>
+		<developer>BatoX</developer>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<releasedate>19930101T000000</releasedate>
+	</game>
+</gameList>
